@@ -1,0 +1,24 @@
+https://codilime.com/blog/go-vs-python-and-cpp-main-differences/
+
+What is the Go language?
+What exactly is Python? A brief definition
+C++ programming language - a brief definition 
+The differences between Go, Python, and C++
+
+    The first stable release 
+
+What are these programming languages used for?
+
+    Speed and Readability 
+    Libraries in Go, Python and C++
+    Is code coverage important?
+
+What is exception handling?
+
+    How does exception handling look in the Go language? 
+    Python exceptions handling 
+    C++ exceptions handling
+    Which programming language has the biggest community? 
+
+
+https://appdividend.com/2022/01/11/difference-between-go-vs-cpp/
