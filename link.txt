@@ -1,5 +1,3 @@
-https://codilime.com/blog/go-vs-python-and-cpp-main-differences/
-
 What is the Go language?
 What exactly is Python? A brief definition
 C++ programming language - a brief definition 
@@ -19,6 +17,3 @@ What is exception handling?
     Python exceptions handling 
     C++ exceptions handling
     Which programming language has the biggest community? 
-
-
-https://appdividend.com/2022/01/11/difference-between-go-vs-cpp/
